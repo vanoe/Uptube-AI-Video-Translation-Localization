@@ -22,6 +22,8 @@ Whether you're a **creator, educator, or business**, Uptube makes it easy to con
 6. Audio is synced with the video
 7. Titles, tags, descriptions, and thumbnails are also translated
 
+<img src="./img/img-1.png" alt="Scheme">
+
 ---
 
 ## ⚙️ Technical Description
