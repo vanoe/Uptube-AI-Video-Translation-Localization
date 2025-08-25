@@ -86,6 +86,27 @@ Whether you're a **creator, educator, or business**, Uptube makes it easy to con
 
 ---
 
+## 🖼️ Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td><img src="./img/img-2.png" alt="image"></td>
+            <td><img src="./img/img-3.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-4.png" alt="image"></td>
+            <td><img src="./img/img-5.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-6.png" alt="image"></td>
+            <td><img src="./img/img-7.png" alt="image"></td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 ## 🎥 Examples
 
 
