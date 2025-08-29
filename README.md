@@ -107,8 +107,7 @@ Whether you're a **creator, educator, or business**, Uptube makes it easy to con
 
 ---
 
-## 🎥 Examples
-
+## 🎥 Video Examples
 
 <table>
     <tbody>
