@@ -113,7 +113,7 @@ Whether you're a **creator, educator, or business**, Uptube makes it easy to con
     <tbody>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/158ada0d-255e-4d8a-8605-265f080e28f7" controls preload>
+                <video src="https://github.com/user-attachments/assets/a17cfaa1-ee80-4138-9c81-14ab01d0f505" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
@@ -126,19 +126,19 @@ Whether you're a **creator, educator, or business**, Uptube makes it easy to con
     <tbody>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/cb71ab19-6a3d-40b0-bb36-091dddb24845" controls preload>
+                <video src="https://github.com/user-attachments/assets/1549c211-5125-4cb2-80b1-e7451ba454a8" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src="https://github.com/user-attachments/assets/859ac234-3859-42b5-b0a8-1c794772abd6" controls preload>
+                <video src="https://github.com/user-attachments/assets/f92e65ab-73eb-46ca-97ac-76ccd509a229" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/bd4feac8-a71d-49b4-8a72-eb3ef3a727ca" controls preload>
+                <video src="https://github.com/user-attachments/assets/3b81ed1a-2def-40fa-8ab2-894cd06dcc26" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
